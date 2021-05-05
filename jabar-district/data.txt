@@ -2,14 +2,12 @@ path:
 - data.csv
 - data.rds
 rows: 27
-cols: 7
+cols: 5
 columns:
-  id: integer
-  id_provinsi: integer
-  kemendagri_kode: character
-  kemendagri_nama: character
-  bps_kode: character
-  bps_nama: character
+  name_bps: character
+  code_bps: character
+  name_kemendagri: character
+  code_kemendagri: character
   geometry: sfc_MULTIPOLYGON
 description: West Java district's administrative boundaries in spatial format
 type: table

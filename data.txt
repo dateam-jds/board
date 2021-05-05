@@ -1,7 +1,7 @@
 - path: jabar-district
   name: jabar-district
   rows: 27
-  cols: 7
+  cols: 5
   description: West Java district's administrative boundaries in spatial format
   type: table
 - path: jabar-province
