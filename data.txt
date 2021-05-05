@@ -4,10 +4,6 @@
   cols: 7
   description: West Java district's administrative boundaries in spatial format
   type: table
-- path: x
-  name: x
-  description: West Java district's administrative boundaries in spatial format
-  type: default
 - path: jabar-province
   name: jabar-province
   rows: 1
