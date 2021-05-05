@@ -20,3 +20,9 @@
   cols: 5
   description: West Java province's administrative boundaries in spatial format
   type: table
+- path: jabar-subdistrict
+  name: jabar-subdistrict
+  rows: 627
+  cols: 7
+  description: West Java subdistrict's administrative boundaries in spatial format
+  type: table

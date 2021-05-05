@@ -1,0 +1,18 @@
+path:
+- https://api.github.com/repos/dateam-jds/board/releases/assets/36406911
+- data.rds
+rows: 627
+cols: 7
+columns:
+  id: integer
+  id_kokab: integer
+  kemendagri_kode: character
+  kemendagri_nama: character
+  bps_kode: character
+  bps_nama: character
+  geometry: sfc_MULTIPOLYGON
+description: West Java subdistrict's administrative boundaries in spatial format
+type: table
+filenames:
+  https://api.github.com/repos/dateam-jds/board/releases/assets/36406911: data.csv
+  data.rds: data.rds
