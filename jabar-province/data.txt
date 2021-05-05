@@ -1,0 +1,16 @@
+path:
+- data.csv
+- data.rds
+rows: 1
+cols: 5
+columns:
+  ID: integer
+  kode: integer
+  Propinsi: character
+  SUMBER: character
+  geometry: sfc_MULTIPOLYGON
+description: West Java province's administrative boundaries in spatial format
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
