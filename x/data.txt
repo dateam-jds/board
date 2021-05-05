@@ -1,0 +1,5 @@
+path: data.rds
+description: West Java district's administrative boundaries in spatial format
+type: default
+filenames:
+  data.rds: data.rds
