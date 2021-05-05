@@ -26,3 +26,9 @@
   cols: 7
   description: West Java subdistrict's administrative boundaries in spatial format
   type: table
+- path: jabar-village
+  name: jabar-village
+  rows: 5957
+  cols: 7
+  description: West Java village's administrative boundaries in spatial format
+  type: table
