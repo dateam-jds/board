@@ -1,18 +1,16 @@
 path:
-- https://api.github.com/repos/dateam-jds/board/releases/assets/36406973
+- https://api.github.com/repos/dateam-jds/board/releases/assets/36412394
 - data.rds
 rows: 5957
-cols: 7
+cols: 5
 columns:
-  id: integer
-  id_kecamatan: integer
-  kemendagri_kode: character
-  kemendagri_nama: character
-  bps_kode: character
-  bps_nama: character
+  name_bps: character
+  code_bps: character
+  name_kemendagri: character
+  code_kemendagri: character
   geometry: sfc_MULTIPOLYGON
 description: West Java village's administrative boundaries in spatial format
 type: table
 filenames:
-  https://api.github.com/repos/dateam-jds/board/releases/assets/36406973: data.csv
+  https://api.github.com/repos/dateam-jds/board/releases/assets/36412394: data.csv
   data.rds: data.rds
