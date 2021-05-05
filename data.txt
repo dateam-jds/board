@@ -22,3 +22,9 @@
   cols: 7
   description: West Java village's administrative boundaries in spatial format
   type: table
+- path: jabar-code
+  name: jabar-code
+  rows: 5963
+  cols: 12
+  description: West Java village's administrative codes
+  type: table

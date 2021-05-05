@@ -1,0 +1,23 @@
+path:
+- data.csv
+- data.rds
+rows: 5963
+cols: 12
+columns:
+  district_name_bps: character
+  district_code_bps: character
+  district_name_kemendagri: character
+  district_code_kemendagri: character
+  subdistrict_name_bps: character
+  subdistrict_code_bps: character
+  subdistrict_name_kemendagri: character
+  subdistrict_code_kemendagri: character
+  village_name_bps: character
+  village_code_bps: character
+  village_name_kemendagri: character
+  village_code_kemendagri: character
+description: West Java village's administrative codes
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
